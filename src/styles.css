@@ -1,0 +1,31 @@
+body {
+    background-color: #f1f1f1;
+    font-family: sans-serif;
+}
+h1 {
+    color: #4CAF50;
+}
+p {
+    color: red;
+    border: 1px solid powderblue;
+}
+ol {
+    font-family: sans-serif;
+    color: #009688;
+    border: 1px solid #757575;
+    background-color: #fff;
+    display: inline-block;
+}
+li a {
+    display: block;
+    padding: 4px;
+}
+a:hover {
+    background-color: #ccc;
+}
+a {
+    color: #4CAF50;
+}
+dt {
+    padding: 4px;
+}
